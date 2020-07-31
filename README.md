@@ -1,4 +1,4 @@
-# Angular 1 PWA
+# Angular PWA
 
 > An Angular starter kit featuring [Angular 10.0.5](https://angular.io), [Angular CLI 10.0.4](https://cli.angular.io/)
 
