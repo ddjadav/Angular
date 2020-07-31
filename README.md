@@ -1,21 +1,6 @@
-# Angular 10 Example PWA
+# Angular 1 PWA
 
 > An Angular starter kit featuring [Angular 10.0.5](https://angular.io), [Angular CLI 10.0.4](https://cli.angular.io/)
-
-> it's part of a repo series designed to create a Progressive Web App with Angular
-
-* [Step 1 : Example Starter](https://github.com/ganatan/angular-example-starter)
-* [Step 2 : Example Routing](https://github.com/ganatan/angular-example-routing)
-* [Step 3 : Example Lazy-loading](https://github.com/ganatan/angular-example-lazy-loading)
-* [Step 4 : Example Bootstrap](https://github.com/ganatan/angular-example-bootstrap)
-* [Step 5 : Example Features](https://github.com/ganatan/angular-example-features)
-* [Step 6 : Example Server Side Rendering](https://github.com/ganatan/angular-example-ssr)
-* [Step 7 : Example HTTP Client](https://github.com/ganatan/angular-example-httpclient)
-* [Step 8 : Example Transfer State](https://github.com/ganatan/angular-example-transferstate)
-* [Step 9 : Example PWA](https://github.com/ganatan/angular-example-pwa)
-* [Step 10 : Example SEO](https://github.com/ganatan/angular-example-seo)
-
-* [Step 11 : Angular 10 Application](https://github.com/ganatan/angular10-app)
 
 # Web Application Live Demo
 <a href="https://angular.ganatan.com/">
@@ -71,21 +56,4 @@ What do you need to run this app:
 * `change directory` cd ui
 * launch html pages in your browser
 
-### Tests
-* `npm run lint`
-* `npm run test`
-* `npm run e2e`
 
-### Author
-* Updated : 27/07/2020
-* Author  : danny
-
-### Documentation
-
-English Tutorials
-- Installation - https://www.ganatan.com/tutorials/progressive-web-app-with-angular
-- Tutorials Step-by-Step - https://www.ganatan.com/tutorials/en
-
-Tutoriels en français
-- Installation - https://www.ganatan.com/tutorials/progressive-web-app-avec-angular
-- Tutoriels Etape par étape - https://www.ganatan.com/tutorials
